@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abtahi Hasan</h1>
+<img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
+
 <h3 align="center">A passionate full stack web developer</h3>
 <h3 align="center">My website : <a href="https://www.abtahihasan.com" rel="follow" >AbtahiHasan.com</a></h3>
-<img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
+
 - 🔭 I’m currently working on Tailwindcss javascript [AbtahiHasan](https://www.abtahihasan.com)
 
 - 👨‍💻 All of my projects are available at [https://portfolio.abtahihasan.com](https://portfolio.abtahihasan.com)
