@@ -16,8 +16,8 @@
 
 <!-- [<a href="" align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/abtahihasan/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/mdabtahihasan/)
  -->
-  <a style={text-align: center} href="https://www.linkedin.com/in/abtahihasan"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
-   <a style={text-align: center} href="https://www.facebook.com/mdabtahihasan/"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
+  <a  href="https://www.linkedin.com/in/abtahihasan"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
+   <a href="https://www.facebook.com/mdabtahihasan/"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
 <!--   [<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://twitter.com/afnan_ferdousi) -->
   
 <br />
