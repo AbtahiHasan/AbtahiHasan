@@ -42,8 +42,7 @@
 
 <p align="center">
 
-<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
-</a>
+
 </p>
 
 <br/>
