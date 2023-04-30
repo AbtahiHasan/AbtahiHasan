@@ -41,7 +41,7 @@
 <br />
 
 <p align="center">
-<a href="https://web.programming-hero.com/course-details">
+
 <img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
 </a>
 </p>
