@@ -20,13 +20,7 @@
   
 <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.abtahihasan.com" rel="follow" target="blank"><img align="center" src="https://www.abtahihasan.com/assets/logo/logo.svg" alt="AbtahiHasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abtahihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abtahihasan" height="30" width="40" /></a>
-<a href="https://fb.com/mdabtahihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdabtahihasan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abtahihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abtahihasan" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
