@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.abtahihasan.com](https://portfolio.abtahihasan.com)
 
-- 📫 How to reach me **contact.abtahihasan@gmail.com**
+- 📫 How to reach me **md.abtahi.hasan@gmail.com**
 
 ## :mailbox: Reach me out
 
