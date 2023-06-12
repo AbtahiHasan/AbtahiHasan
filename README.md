@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Tailwindcss javascript [AbtahiHasan](https://www.abtahihasan.com)
 
-- 👨‍💻 All of my projects are available at [https://portfolio.abtahihasan.com](https://portfolio.abtahihasan.com)
+- 👨‍💻 All of my projects are available at [https://developer.abtahihasan.com](https://portfolio.abtahihasan.com)
 
 - 📫 How to reach me **md.abtahi.hasan@gmail.com**
 
