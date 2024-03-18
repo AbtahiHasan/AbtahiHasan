@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abtahi Hasan</h1>
+
+
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
 
 <h3 align="center">A passionate full stack web developer</h3>
@@ -10,9 +12,16 @@
 
 - 📫 How to reach me **contact.abtahihasan@gmail.com**
 
-## :mailbox: Reach me out
+
+ ---
+
+ [![](https://visitcount.itsvg.in/api?id=AbtahiHasan&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <br />
+## :mailbox: Reach me out
 
 <!-- [<a href="" align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/abtahihasan/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/mdabtahihasan/)
  -->
@@ -44,15 +53,16 @@
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
 </p>
 
-<br />
 
-<p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abtahihasan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbtahiHasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbtahiHasan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbtahiHasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbtahiHasan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
