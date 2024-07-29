@@ -6,11 +6,11 @@
 <h3 align="center">A passionate full stack web developer</h3>
 <h3 align="center">My website : <a href="https://www.abtahihasan.com" rel="follow" >AbtahiHasan.com</a></h3>
 
-- 🔭 I’m currently working on Tailwindcss javascript [AbtahiHasan](https://www.abtahihasan.com)
+- 🔭 I’m currently working on [AbtahiHasan](https://www.abtahihasan.com)
 
-- 👨‍💻 All of my projects are available at [https://developer.abtahihasan.com](https://portfolio.abtahihasan.com)
+- 👨‍💻 All of my projects are available at [https://abtahi-hasan.web.app/](https://abtahi-hasan.web.app/)
 
-- 📫 How to reach me **contact.abtahihasan@gmail.com**
+- 📫 How to reach me **abtahihasanpro@gmail.com**
 
 
  ---
