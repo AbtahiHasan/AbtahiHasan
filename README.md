@@ -64,5 +64,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbtahiHasan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anayethasan&theme=tokyo-night&hide_border=true" />
+</p>
 
 
