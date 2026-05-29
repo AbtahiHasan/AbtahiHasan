@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, next, nest**
 
-- 📫 How to reach me **abtahihasanpro+1@gmail.com**
+- 📫 How to reach me **abtahihasanpro@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10-FkEOxut6q1YVji7olQnxJYRYbEgLLe/view?usp=drive_link](https://drive.google.com/file/d/10-FkEOxut6q1YVji7olQnxJYRYbEgLLe/view?usp=drive_link)
 
