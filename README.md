@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abtahi Hasan</h1>
-<h3 align="center">Passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications. Experienced in both frontend and backend technologies with a strong passion for clean code and problem-solving. Always learning new technologies and creating digital solutions that deliver real-world impact.</h3>
+<h3 align="center">Passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications. Experienced in both frontend and backend technologies with a strong passion for clean code and problem-solving. Always learning new technologies and creating digital solutions that deliver real-world impact. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abtahihasan&label=Profile%20views&color=0e75b6&style=flat" alt="abtahihasan" /> </p>
 
